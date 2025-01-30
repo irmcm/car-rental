@@ -1,0 +1,15 @@
+:root {
+    /* Renk Paleti */
+    --primary-color: #007bff;
+    --secondary-color: #6c757d;
+    --background-color: #f8f9fa;
+    --text-color: #212529;
+    --border-color: #e0e0e0;
+    /* Fontlar */
+    --font-size-base: 16px;
+    --font-size-large: 18px;
+    --font-size-small: 14px;
+    /* Gölge ve Radius */
+    --border-radius: 8px;
+    --box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+}

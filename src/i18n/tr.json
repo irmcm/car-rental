@@ -1,0 +1,63 @@
+{
+  "home": {
+    "welcome": "Hoşgeldiniz",
+    "search": "Ara",
+    "location": "Konum",
+    "date": "Tarih",
+    "time": "Saat",
+    "language": "Dil"
+  },
+  "auth": {
+    "login": "Giriş Yap",
+    "logout": "Çıkış Yap",
+    "register": "Kayıt Ol",
+    "email": "E-posta",
+    "password": "Şifre",
+    "country": "Ülke",
+    "city": "Şehir"
+  },
+  "searchResults": {
+    "resultsFor": "Sonuçlar",
+    "filter": "Filtre",
+    "sortByPrice": "Fiyata G�re Sırala",
+    "chooseTransmission": "Şanzıman Seçin",
+    "transmission": "Şanzıman",
+    "deposit": "Depozito",
+    "mileage": "Kilometre",
+    "age": "Yaş",
+    "cost": "Fiyat"
+  },
+  "notFound": {
+    "title": "Sayfa Bulunamadı",
+    "description": "Üzgünüz, aradığınız sayfa mevcut değil.",
+    "goHome": "Ana Sayfaya Dön"
+  },
+  "pickupPlaceholder": "Alış ofisini seçin",
+  "dropoffPlaceholder": "İade ofisini seçin",
+  "rentCar": "Araç Kirala",
+  "pleaseFillAllFields": "Lütfen tüm alanları doldurun.",
+  "Offices": "Ofisler",
+  "vehicleType": "Araç Tipi",
+  "allCars": "Tüm Araçlar",
+  "orderBy": "Sırala",
+  "lowestPrice": "En Düşük Fiyat",
+  "transmission": "Şanzıman",
+  "economic": "Ekonomik",
+  "luxury": "Lüks",
+  "suv": "SUV",
+  "minibus": "Minibüs",
+  "fuel": "Yakıt Tipi",
+  "diesel": "Dizel",
+  "petrol": "Benzin",
+  "bodyType": "Gövde Tipi",
+  "capacity": "Kapasite",
+  "deposit": "Depozito",
+  "dailyPrice": "Günlük Fiyat",
+  "mileageLimit": "Km Sınırı",
+  "ageLimit": "Ehliyet Yaşı",
+  "payNow": "Hemen Öde",
+  "minDriverAge": "{{age}} ve üzeri",
+  "paymentSuccessful": "{{carName}} için rezervasyon başarıyla yapıldı!"
+
+}
+

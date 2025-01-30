@@ -1,0 +1,61 @@
+{
+  "home": {
+    "welcome": "Welcome",
+    "search": "Search",
+    "location": "Location",
+    "date": "Date",
+    "time": "Time",
+    "language": "Language"
+  },
+  "auth": {
+    "login": "Login",
+    "logout": "Logout",
+    "register": "Register",
+    "email": "Email",
+    "password": "Password",
+    "country": "Country",
+    "city": "City"
+  },
+  "searchResults": {
+    "resultsFor": "Results for",
+    "filter": "Filter",
+    "sortByPrice": "Sort by Price",
+    "chooseTransmission": "Choose Transmission",
+    "transmission": "Transmission",
+    "deposit": "Deposit",
+    "mileage": "Mileage",
+    "age": "Age",
+    "cost": "Cost"
+  },
+  "notFound": {
+    "title": "Page Not Found",
+    "description": "Sorry, the page you are looking for does not exist.",
+    "goHome": "Go Home"
+  },
+  "pickupPlaceholder": "Select pickup office",
+  "dropoffPlaceholder": "Select dropoff office",
+  "rentCar": "Rent a Car",
+  "pleaseFillAllFields": "Please fill in all fields.",
+  "Offices": "Offices",
+  "vehicleType": "Vehicle Type",
+  "allCars": "All Cars",
+  "order": "Order",
+  "lowestPrice": "Lowest Price",
+  "transmission": "Transmission",
+  "economic": "Economic",
+  "luxury": "Luxury",
+  "suv": "SUV",
+  "minibus": "Minibus",
+  "fuel": "Fuel Type",
+  "diesel": "Diesel",
+  "petrol": "Petrol",
+  "bodyType": "Body Type",
+  "capacity": "Capacity",
+  "deposit": "Deposit",
+  "dailyPrice": "Daily Price",
+  "mileageLimit": "Mileage Limit",
+  "ageLimit": "Driver's Age",
+  "payNow": "Pay Now",
+  "minDriverAge": "{{age}} and above",
+  "paymentSuccessful": "Booking for {{carName}} was successful!"
+}
